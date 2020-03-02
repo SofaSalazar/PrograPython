@@ -1,0 +1,5 @@
+# primer documento main 
+
+def main():
+
+print("hola mundito, que tal?")
