@@ -1,0 +1,4 @@
+# utilizar la funcion 'format' de un string para incluir 
+# valores en una salida 
+
+def main(): 
