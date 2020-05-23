@@ -1,11 +1,11 @@
 # Inicializacion del menu
 # Es creado para poder generar tareas hacia el sistema operativo
 
-importar os
+import os
 
 # El siguiente modulo es para trabajar con una regular expression
 
-importar re 
+import re 
 
 # Esta funcion es para borrar pantalla, en este caso seria 
 # una lambda, que es equivalente a un def clear ():
