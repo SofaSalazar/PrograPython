@@ -1,0 +1,16 @@
+# menu 
+# Es creado para poder generar tareas hacia el sistema operativo
+
+importar os
+
+# El siguiente modulo es para trabajar con una regular expression
+
+importar re 
+
+# Esta funcion es para borrar pantalla, en este caso seria 
+# una lambda, que es equivalente a un def clear ():
+# os.system ('cls') 
+
+limpiarPantalla = lambda : os . system ( 'cls' )
+
+# Se validan 

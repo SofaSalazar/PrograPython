@@ -13,3 +13,6 @@ from preguntaVal import re
 from preguntaVal import datetime 
 from preguntaVal import main 
 main()
+
+from usoFormat import main
+main()
